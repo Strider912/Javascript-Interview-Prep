@@ -1,2 +1,3 @@
 # Javascirpt-Interview-Preparations Questions
-Javascirpt Rapid Revision Problems Question Set
+Javascirpt Rapid Revision Problems Question Set. 
+Updated Readme
